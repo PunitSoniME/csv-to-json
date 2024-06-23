@@ -1,0 +1,23 @@
+
+build
+logs
+
+# package-lock.json
+yarn.lock
+
+.env
+
+images
+json
+node_modules
+dist
+
+csv
+file.json
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
